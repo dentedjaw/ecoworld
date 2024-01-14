@@ -1,0 +1,1 @@
+global.current_weather = "sunny";  // Set a default weather
